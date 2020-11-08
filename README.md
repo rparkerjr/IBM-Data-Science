@@ -8,7 +8,7 @@ Individual courses *(not all courses will have postable code)*:
 1. What is Data Science? *(Completed)*
 2. Tools for Data Science *(Completed)*
 3. Data Science Methodology *(In-progress)*
-4. Python for Data Science and AI
+4. Python for Data Science and AI *(In-progress)*
 5. Databases and SQL for Data Science
 6. Data Analysis with Python
 7. Data Visualization with Python
